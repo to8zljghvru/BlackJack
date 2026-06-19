@@ -18,7 +18,7 @@ A custom implementation of the classic Blackjack card game.
 * Clean and modern interface
 * Randomized card shuffling
 
-## Future Improvements(maybe)
+## Future Improvements
 
 * Double Down
 * Insurance
