@@ -23,6 +23,7 @@ A custom implementation of the classic Blackjack card game.
 
    * **Hit**: Draw another card.
    * **Stand**: End their turn.
+   * **Split**: If the first two cards have the same value, the player may divide them into two separate hands. Each hand receives an additional card and is played independently. Both hands are then compared against the dealer's hand separately.
 6. The dealer draws until reaching at least **17**.
 7. If a hand exceeds **21**, it busts and loses automatically.
 
