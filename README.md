@@ -38,7 +38,6 @@ cd blackjack
 ## Running the Game
 
 ```bash
-# Example
 npm start
 ```
 
