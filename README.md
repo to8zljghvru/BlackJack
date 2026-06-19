@@ -4,7 +4,10 @@
 
 [![Play Demo](https://img.shields.io/badge/Play-Demo-success)](https://to8-bj.netlify.app/)
 
-A custom implementation of the classic Blackjack card game.
+A custom implementation of the classic Blackjack card game using:
+* HTML5
+* CSS3
+* JavaScript
 
 <img width="959" height="506" alt="image" src="https://github.com/user-attachments/assets/813ae9b7-6ae3-49a6-8d65-79ee72ed6b94" />
 
