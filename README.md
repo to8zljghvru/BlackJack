@@ -1,8 +1,14 @@
 # Blackjack
 
+![License](https://img.shields.io/badge/license-MIT-green) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow) ![Status](https://img.shields.io/badge/status-Complete-brightgreen)
+
 A custom implementation of the classic Blackjack card game.
 
 <img width="959" height="506" alt="image" src="https://github.com/user-attachments/assets/813ae9b7-6ae3-49a6-8d65-79ee72ed6b94" />
+
+## Live Demo
+
+[![Play Demo](https://img.shields.io/badge/Play-Demo-success)](https://to8-bj.netlify.app/)
 
 ## Features
 
