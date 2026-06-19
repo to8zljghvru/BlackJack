@@ -12,10 +12,20 @@ A custom implementation of the classic Blackjack card game.
 
 * Single-player Blackjack against the dealer
 * Standard Blackjack rules
+* Dynamic Ace value handling (1 or 11)
 * Hit, Stand, and Split mechanics
 * Automatic dealer play
 * Clean and modern interface
 * Randomized card shuffling
+
+## Future Improvements(maybe)
+
+* Double Down
+* Insurance
+* Betting system
+* Game statistics
+* Sound effects
+* Multiplayer support
 
 ## Game Rules
 
