@@ -69,7 +69,7 @@ https://to8-bj.netlify.app/
 ```text
 blackjack/
 ├── cards/
-│   └── pictures
+│   └── *.png
 ├── blackjack.css
 ├── blackjack.js
 ├── index.html
