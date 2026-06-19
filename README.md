@@ -58,15 +58,11 @@ cd blackjack
 
 ## Running the Game
 
-```bash
-npm start
-```
+Open `index.html` in your browser.
 
-Or:
+Or visit the live demo:
 
-```bash
-python main.py
-```
+https://to8-bj.netlify.app/
 
 ## Project Structure
 
@@ -74,7 +70,7 @@ python main.py
 blackjack/
 ├── cards/
 │   └── pictures
-├──blackjack.css
+├── blackjack.css
 ├── blackjack.js
 ├── index.html
 └── README.md
