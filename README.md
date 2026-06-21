@@ -52,7 +52,7 @@ A custom implementation of the classic Blackjack card game.
 Clone the repository:
 
 ```bash
-git clone https://github.com/to8zljghvru/blackjack.git
+git clone https://github.com/to8zljghvru/BlackJack.git
 cd blackjack
 ```
 
